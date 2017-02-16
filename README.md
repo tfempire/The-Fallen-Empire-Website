@@ -4,7 +4,7 @@ Fallen Website
 
 This is the website for The Fallen Empire. It is an application/extension/plugin for the [Woltlab Community Framework 2.1 (WCF 2.1)]. This code is not a proper implementation since there seems to be no full documentation of the WCF and we are way to lazy to examine every single class by ourself.
 
-The Fallen Website uses the The Fallen Empire Web API and contains some modifications which have been done by us to the WCF an the [WBB (Woltlab Burning Board)] (not available anymore, is now part of the Woltab Suite).
+The Fallen Website uses the The Fallen Empire Web API and contains some modifications which have been done by us to the WCF an the [WBB (Woltlab Burning Board)].
 
 We're hoping to replace the WCF (and the WBB) with our own framework ([Simple Framework]) once it is in a useable state.
 
