@@ -12,7 +12,7 @@ We're hoping to replace the WCF (and the WBB) with our own framework ([Simple Fr
 This project is licensed under the BSD3 license. To see full details, open up [LICENSE].
 
 [Woltlab Community Framework 2.1 (WCF 2.1)]: https://github.com/WoltLab/WCF/tree/2.1
-[The Fallen Empire Web API]: https://github.com/FallenStudios/The-Fallen-Empire-Web-API/
+[The Fallen Empire Web API]: https://github.com/tfempire/The-Fallen-Empire-Web-API/
 [Simple Framework]: https://github.com/FallenStudios/Simple-Framework/
 [WBB (Woltlab Burning Board)]: https://www.woltlab.com/
-[LICENSE]: https://github.com/FallenStudios/The-Fallen-Empire-Website/blob/master/LICENSE
+[LICENSE]: https://github.com/tfempire/The-Fallen-Empire-Website/blob/master/LICENSE
